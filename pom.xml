@@ -33,7 +33,7 @@
     </licenses>
     <properties>
         <checkstyle.config.location>checkstyle_javadoc_only.xml</checkstyle.config.location>
-        <uima-as-version>2.9.0</uima-as-version>
+        <uima-as-version>2.10.2</uima-as-version>
         <skipJavadoc>true</skipJavadoc>
         <github.global.server>github</github.global.server>
         <additionalparam>-Xdoclint:none</additionalparam>
